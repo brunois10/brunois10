@@ -9,7 +9,7 @@ Profissional com perfil analítico, voltado para resultados, proatividade e exce
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunois10&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunois10)](https://github.com/brunois10/github-readme-stats)
+
 
 
 ## Tecnologias que uso no meu dia
